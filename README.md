@@ -8,6 +8,12 @@
 <li>BS Machine Learning & Autonomous Systems at Kansas State University</li>
 </ul>
 
+<h3>Currently Learning</h3>
+<ul>
+ <li>C#</li>
+ <li>Python</li>
+ </ul>
+
 <p align="left">
  <img alt="Kansas City" title="Where I'm from" src="https://custom-icon-badges.demolab.com/badge/Kansas City-USA-blueviolet?style=for-the-badge&logo=location&logoColor=white">
  <a href="https://www.instagram.com/kmallen28/">
